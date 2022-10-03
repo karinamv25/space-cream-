@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    font-size: 62.5%;
+    
+   
+}
+
+body{
+    
+    background: rgb(20, 4, 4);
+    padding: 6.0rem 2.3rem 6.6rem;
+    font-family:'epilogue';
+    
+
+}
+
+main{
+    width: 800px;
+    padding: 8.0rem;
+    margin: auto;
+    position: relative;
+   
+}
+
+img {
+    width: 100%;
+   
+   
+}
+
+h1{
+    font-family: 'epilogue';
+    font-size: 8.3rem;
+    color:rgb(221, 107, 212);
+    padding: 0 2 8.0rem 8.0rem;
+    margin: auto;
+    width: fit-content;
+    position: relative;
+   
+}
+h2{
+    
+    color:rgb(233, 165, 188);
+    font-size: 6.5rem;
+}
+
+div span{
+    
+    position: relative;
+    display: inline-block;
+    font-size: 3.5rem;
+    color:rgb(173, 34, 80);
+    background-color: antiquewhite;
+    border-radius: 4.0rem;
+    height: 10.5.0rem;
+    text-align: center;
+    padding: 4.0rem;
+    
+    
+    
+    
+}
+span:hover{
+    transform: scale(1.1);
+    opacity: 0.6;
+    
+}
+
+.espaço {
+    
+    position:relative;
+    display: flex;
+    margin-top:left;
+    background-color: rgb(87, 23, 23);
+    border-radius: 2.0rem;
+    gap: 7.0rem;
+    padding: 2.0rem;
+    height: 3.%;
+    
+    
+}
+.sabor {
+    position:relative;
+    display: flex;
+    top:right;
+    background-color: rgb(87, 23, 23);
+    border-radius: 2.0rem;
+    gap:7.0rem;
+    height: 3.%;
+    padding: 2.0rem;
+}
+.caldas{
+    position:relative;
+    display: flex;
+    top:right;
+    background-color: rgb(87, 23, 23);
+    border-radius: 2.0rem;
+    gap:7.0rem;
+    height: 3.%;
+    padding: 2.0rem;
+    
+}
+.Dietas{
+    position:relative;
+    display: flex;
+    top:right;
+    background-color: rgb(87, 23, 23);
+    border-radius: 2.0rem;
+    gap:7.0rem;
+    height: 3.%;
+    padding: 2.0rem;
+   
+}
+
